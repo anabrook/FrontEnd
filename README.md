@@ -1,4 +1,3 @@
-
 # Árvore de Itens
 
 A árvore de Itens é uma aplicação Web, que faz a seleção de vários itens filhos.
@@ -15,7 +14,6 @@ Antes de começar verifique os requisitos mínimos abaixo e não se esqueça de 
 
   - A instalação do node.js pode ser feita pelo terminal ou pelo arquivo .exe
 (https://nodejs.org/en/download/).
-
 
 ## Instalação de dependências
 
@@ -46,5 +44,4 @@ $ yarn start
 ## Dados utilizados
 
 Foi utilizado o arquivo `data.json` contendo os dados para renderizar a árvore.
-
 
