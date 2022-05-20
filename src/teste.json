@@ -1,0 +1,66 @@
+{
+  "0": {
+    "id": "2469bdab-23b5-4cb8-90c9-c609a49410b0",
+    "name": "Richard Paul M.",
+    "children": {
+      "0": {
+        "id": "97cd3a19-0f1c-4248-a84c-a1f5a0093a89",
+        "name": "Luis F. Doris",
+        "children": {
+          "0": {
+            "id": "6410eff5-5aff-46fd-bb08-ed90581007b4",
+            "name": "Maurice Rudolf Ludwig",
+            "children": {
+              "0": {
+                "id": "35996ee4-74a6-4343-ba5e-9700c24bee11",
+                "name": "Joseph E. James A.",
+                "children": {
+                  "0": {
+                    "id": "59fdebaf-0229-4d27-901d-4cfbb4cf81de",
+                    "name": "Alan G. William",
+                    "children": {},
+                    "level": 4
+                  }
+                },
+                "level": 3
+              },
+              "1": {
+                "id": "3bfdf6e6-8a30-4bc3-892d-8d5773ee6bf5",
+                "name": "Guglielmo Hendrik Antoon",
+                "children": {},
+                "level": 3
+              },
+              "2": {
+                "id": "d3865a91-c4e3-4ee7-b73e-5c2c7d428091",
+                "name": "Wladyslaw Stanislaw Ivar",
+                "children": {},
+                "level": 3
+              },
+              "3": {
+                "id": "218e1ab3-191a-4301-a76d-2adfffd9e97f",
+                "name": "Élie Melvin",
+                "children": {},
+                "level": 3
+              },
+              "4": {
+                "id": "a97eda46-6220-44dd-8db1-e5116a71d57f",
+                "name": "Alvin E. Emil Theodor",
+                "children": {},
+                "level": 3
+              },
+              "5": {
+                "id": "cd781f42-19e5-4c2b-a000-67613e24bd15",
+                "name": "Heike Norman E.",
+                "children": {},
+                "level": 3
+              }
+            },
+            "level": 2
+          }
+        },
+        "level": 1
+      }
+    },
+    "level": 0
+  }
+}

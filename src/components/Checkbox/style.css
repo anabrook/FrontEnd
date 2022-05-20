@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+}
+
+.textLabel {
+  position: relative;
+  font-size: 1.2rem;
+  color: #383838;
+  padding: 5px;
+}
